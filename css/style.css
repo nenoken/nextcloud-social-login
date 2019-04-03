@@ -29,7 +29,7 @@ a[href*="/sociallogin/oauth/GitHub"]::before {
   background-image: url(../img/github.svg);
 }
 a[href*="/sociallogin/oauth/GitLab"]::before {
-  background-image: url(../img/github.svg);
+  background-image: url(../img/gitlab.svg);
 }
 a[href*="/sociallogin/oauth/discord"]::before {
   background-image: url(../img/discord.svg);
